@@ -1,0 +1,3 @@
+zener
+material silicio
+probado
