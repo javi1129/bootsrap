@@ -1,3 +1,0 @@
-100 ohm
-texteada
-funcionando
